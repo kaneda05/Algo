@@ -1,14 +1,16 @@
-# 各言語ごとのメモ
+# 全探索
 
-## Python
+## 各言語ごとのメモ
 
-## C++
+### Python
 
-## Java
+### C++
 
-## Javascript
+### Java
 
-## Ruby
+### Javascript
+
+### Ruby
 
 |問題|コード|
 |:--:|:--:|

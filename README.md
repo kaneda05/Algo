@@ -7,3 +7,9 @@
 |ソートの基礎||
 |集合と辞書||
 |グラフ||
+
+
+## Algo精進日記
+|日付|解いた問題数|
+|:--:|:--:|
+|[2025年10月](https://github.com/kaneda05/Algo/blob/main/README/25y10m.md)|xx|
